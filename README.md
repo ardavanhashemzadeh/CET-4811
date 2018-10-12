@@ -10,6 +10,8 @@ yet another interface: joypad/buttons
 Requirements:
 1. Controlled by High Level Programming Language (C/C++)
 2. Use embedded micro-controller
-2. (1) Complex Sensor
-2. (2) Simple Sensors
-3. 
+3. (1) Advanced Sensorn (IR, Ultrasonic, Tilt/Gyro
+4. (2) Simple Sensors (switch, pot, temp, light)
+5. (1) Motor
+6. (1) Other output device (LED, LCD, Speaker...)
+7. Data Communication

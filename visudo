@@ -1,0 +1,1 @@
+www-data raspberrypi = NOPASSWD: /var/www/balancer, /var/www/stop
